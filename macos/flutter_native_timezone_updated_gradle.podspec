@@ -3,7 +3,7 @@
 # Run `pod lib lint flutter_native_timezone.podspec' to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'flutter_native_timezone'
+  s.name             = 'flutter_native_timezone_updated_gradle'
   s.version          = '0.0.1'
   s.summary          = 'A new flutter plugin project.'
   s.description      = <<-DESC
